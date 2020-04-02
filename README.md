@@ -16,4 +16,8 @@ python2 -m pip install -r requirements.txt
 
 i made this  in python2 
 
+to get the raw tx from tx id use this 
+
+https://blockchain.info/tx/ (put your tx id) ?format=hex
+
 i hope you like it 
