@@ -1,6 +1,5 @@
 bitcoin
 ecdsa
-decode
 utils
 base58
 
