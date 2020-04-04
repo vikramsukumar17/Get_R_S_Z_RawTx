@@ -1,8 +1,6 @@
 bitcoin
 ecdsa
-hashlib
-struct
-unittest
+decode
 utils
 base58
 
